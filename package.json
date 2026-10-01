@@ -1,0 +1,26 @@
+{
+  "name": "sample_mern_app",
+  "version": "1.0.0",
+  "description": "hrmanagementsystem",
+  "homepage": "https://github.com/gaddamsheshadri692-gif/sample_mern_app#readme",
+  "bugs": {
+    "url": "https://github.com/gaddamsheshadri692-gif/sample_mern_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaddamsheshadri692-gif/sample_mern_app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "gnodemon": "^0.0.3",
+    "mongoose": "^9.10.2"
+  }
+}
